@@ -1,4 +1,4 @@
-# Reaction-Time-Runner-
+# Reaction-Time-Runner
 2D reaction-training game built in Godot 4. Features randomised obstacles and combo-based enemy encounters
 
 Reflex Runner is a 2D infinite runner designed to train, test, and track the player’s reaction speed over time.  
